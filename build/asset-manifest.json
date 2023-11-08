@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/note--pad/static/css/main.e8edbf6d.css",
+    "main.js": "/note--pad/static/js/main.d9dff195.js",
+    "static/media/backgroundimg.png": "/note--pad/static/media/backgroundimg.981e2e07f14cd4175925.png",
+    "index.html": "/note--pad/index.html",
+    "main.e8edbf6d.css.map": "/note--pad/static/css/main.e8edbf6d.css.map",
+    "main.d9dff195.js.map": "/note--pad/static/js/main.d9dff195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8edbf6d.css",
+    "static/js/main.d9dff195.js"
+  ]
+}
